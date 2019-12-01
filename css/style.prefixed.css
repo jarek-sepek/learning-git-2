@@ -2,5 +2,6 @@ body {
     background: yellow;
 }
 header {
+    display: -ms-flexbox;
     display: flex;
 }
