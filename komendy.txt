@@ -1,1 +1,5 @@
-kjh
+./node_modules/.bin/nu-html-checker index.html
+./node_modules/.bin/nu-html-checker --version index.html
+
+./node_modules/.bin/autoprefixer-cli -h
+./node_modules/.bin/autoprefixer-cli -o ./css/style.prefixed.css  ./css/style.css
